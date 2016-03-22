@@ -1,0 +1,12 @@
+/**
+ * bookStyle.css
+ * Andrew Ribeiro 
+ * November 29, 2009
+**/
+
+body 
+{
+	background-color: #FFFFCC;
+	border-left:#CCCCCC medium solid;
+	padding:1em;
+}
