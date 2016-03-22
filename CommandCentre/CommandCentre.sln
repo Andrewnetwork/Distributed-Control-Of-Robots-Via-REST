@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommandCentre", "WebForm.vcproj", "{AA71CB81-29EA-4639-8B8C-9CF3CD1150C1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CommandParsing", "..\CommandParsing\CommandParsing.vcproj", "{D1532FFD-BF02-4B01-B77E-E68D7FEBB756}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Varibles", "..\Varibles\Varibles.vcproj", "{CED63C9E-5B0F-4E5F-8005-47BF4684F230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA71CB81-29EA-4639-8B8C-9CF3CD1150C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AA71CB81-29EA-4639-8B8C-9CF3CD1150C1}.Debug|Win32.Build.0 = Debug|Win32
+		{AA71CB81-29EA-4639-8B8C-9CF3CD1150C1}.Release|Win32.ActiveCfg = Release|Win32
+		{AA71CB81-29EA-4639-8B8C-9CF3CD1150C1}.Release|Win32.Build.0 = Release|Win32
+		{D1532FFD-BF02-4B01-B77E-E68D7FEBB756}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1532FFD-BF02-4B01-B77E-E68D7FEBB756}.Debug|Win32.Build.0 = Debug|Win32
+		{D1532FFD-BF02-4B01-B77E-E68D7FEBB756}.Release|Win32.ActiveCfg = Release|Win32
+		{D1532FFD-BF02-4B01-B77E-E68D7FEBB756}.Release|Win32.Build.0 = Release|Win32
+		{CED63C9E-5B0F-4E5F-8005-47BF4684F230}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CED63C9E-5B0F-4E5F-8005-47BF4684F230}.Debug|Win32.Build.0 = Debug|Win32
+		{CED63C9E-5B0F-4E5F-8005-47BF4684F230}.Release|Win32.ActiveCfg = Release|Win32
+		{CED63C9E-5B0F-4E5F-8005-47BF4684F230}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
